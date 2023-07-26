@@ -11,14 +11,14 @@ I'm a passionate Full Stack Developer with expertise in MERN (MongoDB, Express.j
 - Other: Firebase, GraphQL
 
 ### 🌱 Currently Learning:
-I believe in continuous learning, and I'm currently exploring [Technology/Tool/Framework] to enhance my skillset and stay up-to-date with industry trends.
+I believe in continuous learning, and I'm currently exploring Mern(React) to enhance my skillset and stay up-to-date with industry trends.
 
 ### 🔧 Projects:
 - [Project 1](https://github.com/yourusername/project-1): Brief description of the project and technologies used.
 - [Project 2](https://github.com/yourusername/project-2): Brief description of the project and technologies used.
 
 ### 📫 How to reach me:
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/bharath-9aa6b5165)
 - Email: bharathreddydevarapalli@gmail.com
 
 ### 🎯 Goals for the Future:
