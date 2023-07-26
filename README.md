@@ -14,8 +14,12 @@ I'm a passionate Full Stack Developer with expertise in MERN (MongoDB, Express.j
 I believe in continuous learning, and I'm currently exploring Mern(React) to enhance my skillset and stay up-to-date with industry trends.
 
 ### 🔧 Projects:
-- [Project 1](https://github.com/yourusername/project-1): Brief description of the project and technologies used.
-- [Project 2](https://github.com/yourusername/project-2): Brief description of the project and technologies used.
+- [Asset Management]: Asset Management web application aimed at helping businesses efficiently track, monitor, and manage their physical 
+                      and digital assets. It provides a user-friendly interface for users to add, update, categorize, and search for 
+                      assets. Additionally, the application offers features like asset lifecycle management, reporting, notifications.
+- [Inq Fabric]: Application aimed at to provide the flexible connections to the commercial organizations ,Providing different port ,
+                 fcr and cloud eonnections through platform by using technologies (React,MongDB and node JS)
+- [ICAM]: Application  is a specialised solutions provider supplying, installing, maintaining and monitoring the following systems and services: Vehicle Video Systems, Tracking and Telematics Systems, ADAS/Driver Fatigue, Integrated User Platforms, Reports and Business Intelligence, Monitoring and Recovery for the broader fleet, transport, construction and mining industries with the aim of ensuring Driver Safety, Road Safety, Fleet Safety and Vehicle & Fleet Optimisation.
 
 ### 📫 How to reach me:
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/bharath-9aa6b5165)
